@@ -32,6 +32,14 @@ This year our judge will be **Claude** :robot: - so make sure your solutions imp
 
     the individual who simply crushed it
 
+## Award 6: *The Shameless Shortcutter*
+
+    the least effort for the most stars - a library that does it all, a hard-coded answer, or an AI that wrote the lot (own up to it!)
+
+## Award 7: *The Greenhorn*
+
+    the first-timer who made the best go of it
+
 # Previous years
 
 | Year |                                                                               |                                                           |
