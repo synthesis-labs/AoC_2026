@@ -10,7 +10,7 @@ Any issues please reach out to Mike, Tom, Kieron, Archie, Tjaard, Bhavesh, Marai
 
 # The Awards
 
-This year our judge will be **Claude** :robot: - so make sure your solutions impress both humans and machines!
+This year our judges will be **Claude** :robot: and **Tom** :elf: - so make sure your solutions impress both humans and machines!
 
 ## Award 1: *The Thing of Beauty*
 
