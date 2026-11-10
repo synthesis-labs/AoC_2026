@@ -14,31 +14,31 @@ This year our judge will be **Claude** :robot: - so make sure your solutions imp
 
 ## Award 1: *The Thing of Beauty*
 
-    the cleanest and most elegant solution that makes our jaws drop
+> the cleanest and most elegant solution that makes our jaws drop
 
 ## Award 2: *The Absolute Pits* 
 
-    the most criminally insane solution that defies logic, but somehow works?
+> the most criminally insane solution that defies logic, but somehow works?
 
 ## Award 3: *Eye of the Beholder*
 
-    the most idiomatic solution capturing the spirit of the language chosen
+> the most idiomatic solution capturing the spirit of the language chosen
 
 ## Award 4: *The Rube Goldberg*
 
-    that solution that simply had to show off
+> that solution that simply had to show off
 
 ## Award 5: *The Ultimate Beast*
 
-    the individual who simply crushed it
+> the individual who simply crushed it
 
 ## Award 6: *The Shameless Shortcutter*
 
-    the least effort for the most stars - a library that does it all, a hard-coded answer, or an AI that wrote the lot (own up to it!)
+> the least effort for the most stars - a library that does it all, a hard-coded answer, or an AI that wrote the lot (own up to it!)
 
 ## Award 7: *The Greenhorn*
 
-    the first-timer who made the best go of it
+> the first-timer who made the best go of it
 
 # Previous years
 
